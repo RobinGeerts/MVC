@@ -1,0 +1,24 @@
+﻿@model HondenRescue.ViewModels.HondListViewModel;
+
+@{
+    ViewData["Title"] = "Honden";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@foreach (var h in Model.Honden)
+{
+    <div class="card m-2" style="width: 30%; height: 32rem; float: left;">
+        <img src="~/img/@(h.HondId).jpg" class="card-img-top" alt="location" style="height: 18rem; width: auto;">
+        <div class="card-body bg-primary">
+            <h5 class="card-title" style="color: white;">@h.Naam</h5>
+            <p class="card-text">
+                @h.Opmerkingen
+            </p>
+        </div>
+        <div class="card-footer bg-primary">
+            <a asp-action="Bekijken" asp-route-id="@h.HondId" class="btn btn-light">Meer info bekijken</a>
+        </div>
+    </div>
+}
+<div style="clear: both;" />

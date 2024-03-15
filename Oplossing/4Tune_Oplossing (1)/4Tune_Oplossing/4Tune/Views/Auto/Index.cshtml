@@ -1,0 +1,95 @@
+﻿@using _4Tune.ViewModels;
+
+@model AutoOverzichtViewModel
+
+@{
+    ViewData["Title"] = "Overzicht Auto's"; 
+}
+
+<h1 class="pt-4 display-4">Overzicht auto's</h1>
+
+<h3 class="pt-4">Audi</h3>
+@if (Model.AudiAutos.Count > 0)
+{
+    foreach (Auto auto in Model.AudiAutos)
+    {
+        <div class="card bg-warning auto-kaart">
+            <img class="card-img-top auto-image" src="~/images/@auto.Afbeelding" alt="Card image cap">
+            <div class="card-body auto-body">
+                <h5 class="card-title">@auto.Merk @auto.Model</h5>
+                <p class="card-text">Voor slechts @Html.DisplayFor(model => auto.Prijs)</p>
+                <a asp-action="Details" asp-route-id="@auto.Id" class="btn btn-dark">Bekijk details</a>
+            </div>
+        </div>
+    }
+    <div style="clear: both;"/>
+}
+else
+{
+    <div>Er zijn geen auto's van het merk Audi te koop.</div>
+}
+
+<h3 class="pt-4">Renault</h3>
+@if (Model.RenaultAutos.Count > 0)
+{
+    foreach (Auto auto in Model.RenaultAutos)
+    {
+        <div class="card bg-warning auto-kaart">
+            <img class="card-img-top auto-image" src="~/images/@auto.Afbeelding" alt="Card image cap">
+            <div class="card-body auto-body">
+                <h5 class="card-title">@auto.Merk @auto.Model</h5>
+                <p class="card-text">Voor slechts @Html.DisplayFor(model => auto.Prijs)</p>
+                <a asp-action="Details" asp-route-id="@auto.Id" class="btn btn-dark">Bekijk details</a>
+            </div>
+        </div>
+    }
+    <div style="clear: both;" />
+}
+else
+{
+    <div>Er zijn geen auto's van het merk Renault te koop.</div>
+}
+
+<h3 class="pt-4">Opel</h3>
+@if (Model.OpelAutos.Count > 0)
+{
+    
+    foreach (Auto auto in Model.OpelAutos)
+    {
+        <div class="card bg-warning auto-kaart">
+            <img class="card-img-top auto-image" src="~/images/@auto.Afbeelding" alt="Card image cap">
+            <div class="card-body auto-body">
+                <h5 class="card-title">@auto.Merk @auto.Model</h5>
+                <p class="card-text">Voor slechts @Html.DisplayFor(model => auto.Prijs)</p>
+                <a asp-action="Details" asp-route-id="@auto.Id" class="btn btn-dark">Bekijk details</a>
+            </div>
+        </div>
+    }
+    <div style="clear: both;" />
+}
+else
+{
+    <div>Er zijn geen auto's van het merk Opel te koop.</div>
+}
+
+<h3 class="pt-4">Peugeot</h3>
+@if (Model.PeugeotAutos.Count > 0)
+{
+    
+    foreach (Auto auto in Model.PeugeotAutos)
+    {
+        <div class="card bg-warning auto-kaart">
+            <img class="card-img-top auto-image" src="~/images/@auto.Afbeelding" alt="Card image cap">
+            <div class="card-body auto-body">
+                <h5 class="card-title">@auto.Merk @auto.Model</h5>
+                <p class="card-text">Voor slechts @Html.DisplayFor(model => auto.Prijs)</p>
+                <a asp-action="Details" asp-route-id="@auto.Id" class="btn btn-dark">Bekijk details</a>
+            </div>
+        </div>
+    }
+    <div class="pb-4" style="clear: both;" />
+}
+else
+{
+    <div class="pb-4">Er zijn geen auto's van het merk Peugeot te koop.</div>
+}

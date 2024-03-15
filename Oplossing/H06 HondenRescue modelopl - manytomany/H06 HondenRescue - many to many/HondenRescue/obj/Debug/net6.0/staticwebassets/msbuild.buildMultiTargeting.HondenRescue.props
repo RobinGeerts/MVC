@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HondenRescue.props" />
+</Project>

@@ -1,0 +1,15 @@
+﻿@using _4Tune.ViewModels;
+
+@model AutoDetailsViewModel
+
+@{
+    ViewData["Title"] = $"Details {Model.Auto.Merk} {Model.Auto.Model}";
+}
+
+<img class="pt-4 auto-big-image" src="~/images/@Model.Auto.Afbeelding" alt="Card image cap"> 
+
+<div><span class="fw-bolder">Merk:</span> @Model.Auto.Merk</div>
+<div><span class="fw-bolder">Model:</span> @Model.Auto.Model</div>
+<div><span class="fw-bolder">Bouwjaar:</span> @Model.Auto.Bouwjaar</div>
+<div><span class="fw-bolder">Brandstofefficientie:</span> @Model.Auto.Brandstofefficientie l/100km</div>
+<div><span class="fw-bolder">Prijs:</span> @Html.DisplayFor(model => Model.Auto.Prijs)</div>

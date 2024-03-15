@@ -1,0 +1,46 @@
+﻿@using Owledge.ViewModels
+
+@model BevestigingViewModel
+
+<div>
+    <h1 class="display-4">Bevestiging van uw inschrijving!</h1>
+    <h2 class="display-6">
+        Opleidingskeuze
+    </h2>
+    <p>
+        <b>Opleiding:</b><br/>@Model.Inschrijving.Opleiding
+    </p>
+    <p>
+        <b>Keuzevakken:</b>
+    </p>
+    <ul>
+        @foreach (string vak in Model.Inschrijving.KeuzeVakken)
+        {
+            <li>@vak</li>
+        }
+    </ul>
+    
+    <h2 class="display-6">
+        Persoonsgegevens
+    </h2>
+    <p>
+        <b>Naam:</b><br/>@Model.Inschrijving.Familienaam "@Model.Inschrijving.Roepnaam" @Model.Inschrijving.Voornaam
+    </p>
+    <p>
+        <b>Geboortedatum:</b><br/>@Html.DisplayFor(g => g.Inschrijving.Geboortedatum)
+    </p>
+    <p>
+        <b>Telefoonnummer:</b><br />@Model.Inschrijving.Telefoonnummer
+    </p>
+
+    <h2 class="display-6">
+        Contactgegevens
+    </h2>
+    <p>
+        <b>Email:</b><br/>@Model.Inschrijving.Email
+    </p>
+    <p>
+        <b>Adres:</b><br/>@Model.Inschrijving.Straat @Model.Inschrijving.Huisnummer<br />@Model.Inschrijving.Postcode @Model.Inschrijving.Gemeente
+    </p>
+    
+</div>

@@ -1,0 +1,27 @@
+﻿@model HondenRescue.ViewModels.EigenarenHondenViewModel;
+@{
+    ViewData["Title"] = "";
+}
+<table class="table">
+    <thead class="thead-light">
+        <tr class="bg-info">
+            <th class="col-2">
+                @Html.DisplayNameFor(k => k.EigenarenHonden[0].Eigenaar.VolledigeNaam)
+            </th>
+            <th class="col-4">
+                @Html.DisplayNameFor(k => k.EigenarenHonden[0].Hond)
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model.EigenarenHonden)
+    {
+         <tr>
+            <td class="col-4">
+                @Html.DisplayFor(modelItem => item.Eigenaar.VolledigeNaam) 
+            </td>
+            <td class="col-4">
+                @Html.DisplayFor(modelItem => item.Hond.Naam) - @Html.DisplayFor(modelItem => item.Hond.Geslacht) - @Html.DisplayFor(modelItem => item.Hond.Geboortedatum)
+            </td>
+        </tr>        
+    }
+</table>

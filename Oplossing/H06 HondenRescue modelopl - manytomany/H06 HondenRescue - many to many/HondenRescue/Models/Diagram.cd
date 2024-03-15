@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HondenRescue.Models.HondEigenaar">
+    <Position X="4" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABAAAAAAAAEAgAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\HondEigenaar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Eigenaar" />
+      <Property Name="Hond" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HondenRescue.Models.Eigenaar">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQgAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Eigenaar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="HondEigenaren" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HondenRescue.Models.Hond">
+    <Position X="7.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAACABAABABEAAAAAAAAAAAIgAAEAAAAA=</HashCode>
+      <FileName>Models\Hond.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="HondEigenaren" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Enum Name="HondenRescue.Models.Geslacht" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hond.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

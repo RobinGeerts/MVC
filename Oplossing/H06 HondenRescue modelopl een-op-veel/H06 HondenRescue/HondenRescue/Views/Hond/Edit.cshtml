@@ -1,0 +1,67 @@
+﻿@model HondenRescue.ViewModels.HondEditViewModel;
+@{
+    ViewData["Title"] = @Model.Naam;
+}
+<h1>Bewerk nieuwe hond</h1>
+
+<h4>@Model.Naam</h4>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Naam" class="control-label"></label>
+                <input asp-for="Naam" class="form-control" />
+                <span asp-validation-for="Naam" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Geboortedatum" class="control-label"></label>
+                <input asp-for="Geboortedatum" class="form-control" />
+                <span asp-validation-for="Geboortedatum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gechipt" class="control-label"></label>
+                <input asp-for="Gechipt" />
+                <span asp-validation-for="Gechipt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedGeslacht" class="control-label"></label>
+                <select asp-for="SelectedGeslacht" class="form-control">
+                    <option value="">-- Selecteer een optie --</option>
+                    @if (Model.Geslacht != null)
+                    {
+                        @foreach (var item in Model.Geslacht)
+                        {
+                           /* {
+                                var selected = (item.Value == Model.SelectedGeslacht) ? "selected" : "";
+                            }
+
+                            <option value="@item.Value" selected="@selected">@item.Text</option>*/
+
+                            if (item.Value == Model.SelectedGeslacht) {
+                                <option value="@item.Value" selected="selected">@item.Text</option>
+                            } else { 
+                                <option value="@item.Value">@item.Text</option>
+                            }
+                        }
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </div>
+</div>
+<div>
+
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
