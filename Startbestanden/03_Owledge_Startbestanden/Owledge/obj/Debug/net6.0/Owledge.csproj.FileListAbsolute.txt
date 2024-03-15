@@ -1,0 +1,63 @@
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\appsettings.Development.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\appsettings.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.staticwebassets.runtime.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.exe
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.deps.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.runtimeconfig.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.dll
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\bin\Debug\net6.0\Owledge.pdb
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.csproj.AssemblyReference.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.AssemblyInfoInputs.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.AssemblyInfo.cs
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.csproj.CoreCompileInputs.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.RazorAssemblyInfo.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.RazorAssemblyInfo.cs
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.Owledge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.build.Owledge.props
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Owledge.props
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Owledge.props
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\scopedcss\Views\Shared\_OwledgeLayout.cshtml.rz.scp.css
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\scopedcss\bundle\Owledge.styles.css
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\scopedcss\projectbundle\Owledge.bundle.scp.css
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.dll
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\refint\Owledge.dll
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.pdb
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\Owledge.genruntimeconfig.cache
+C:\Thomas More\Voorbeelden\MVC\h2\Owledge\obj\Debug\net6.0\ref\Owledge.dll
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\appsettings.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.staticwebassets.runtime.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.exe
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.deps.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.runtimeconfig.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.dll
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\bin\Debug\net6.0\Owledge.pdb
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.AssemblyInfoInputs.cache
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.AssemblyInfo.cs
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.csproj.CoreCompileInputs.cache
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.RazorAssemblyInfo.cache
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.RazorAssemblyInfo.cs
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.Owledge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.build.Owledge.props
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Owledge.props
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Owledge.props
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\scopedcss\Views\Shared\_OwledgeLayout.cshtml.rz.scp.css
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\scopedcss\bundle\Owledge.styles.css
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\scopedcss\projectbundle\Owledge.bundle.scp.css
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.dll
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\refint\Owledge.dll
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.pdb
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\Owledge.genruntimeconfig.cache
+C:\Users\papic\OneDrive\BureaubladDesktop\Schoolprojecten\MCV\Startbestanden\03_Owledge_Startbestanden\Owledge\obj\Debug\net6.0\ref\Owledge.dll

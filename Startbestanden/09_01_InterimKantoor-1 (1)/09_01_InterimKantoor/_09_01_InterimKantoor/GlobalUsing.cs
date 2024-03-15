@@ -1,0 +1,11 @@
+﻿global using _09_01_InterimKantoor.Data;
+global using _09_01_InterimKantoor.Models;
+global using _09_01_InterimKantoor.ViewModels;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Microsoft.EntityFrameworkCore;
+global using _09_01_InterimKantoor;
+global using System.Linq.Expressions;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Identity;
+global using Newtonsoft.Json;

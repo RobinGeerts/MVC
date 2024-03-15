@@ -1,0 +1,33 @@
+﻿.auto-kaart {
+    width: 18rem !important;
+    height: 32rem !important;
+    float: left;
+    margin: 10px;
+}
+
+.auto-kaart-klein {
+    width: 18rem !important;
+    height: 20rem !important;
+    float: left;
+    margin: 10px;
+}
+
+.nav-item a:link {
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-item a:visited {
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-item a:hover {
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-item a:active {
+    color: #fff;
+    font-weight: bold;
+}

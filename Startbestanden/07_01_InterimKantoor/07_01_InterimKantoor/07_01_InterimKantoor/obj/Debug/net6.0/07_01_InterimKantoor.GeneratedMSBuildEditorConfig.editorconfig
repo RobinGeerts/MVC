@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = 07_01_InterimKantoor
+build_property.RootNamespace = 07_01_InterimKantoor
+build_property.ProjectDir = C:\Users\u0157634\OneDrive - Thomas More\Webapplicaties\2023-2024\MVC FrameWork\H07 - UnitOfWork\07_01_InterimKantoor\07_01_InterimKantoor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\u0157634\OneDrive - Thomas More\Webapplicaties\2023-2024\MVC FrameWork\H07 - UnitOfWork\07_01_InterimKantoor\07_01_InterimKantoor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Assign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEFzc2lnbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/u0157634/OneDrive - Thomas More/Webapplicaties/2023-2024/MVC FrameWork/H07 - UnitOfWork/07_01_InterimKantoor/07_01_InterimKantoor/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-596b44nu2q
